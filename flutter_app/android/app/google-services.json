@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "99149952213",
+    "firebase_url": "https://medicine-15a9d-default-rtdb.firebaseio.com",
+    "project_id": "medicine-15a9d",
+    "storage_bucket": "medicine-15a9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99149952213:android:7a0a3a8e8f3d1fd1afde5c",
+        "android_client_info": {
+          "package_name": "com.example.dispenser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaUvsCgmeDaKWYXkGO40X1JMNK584vQvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
